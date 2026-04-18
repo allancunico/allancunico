@@ -46,7 +46,7 @@
 ---
 
 ### 🧗 App de Agendamento
-> Aplicativo mobile entregue como freelance real para uma parede de escalada. Gerencia horários, vagas e reservas de usuários.
+> Aplicativo mobile entregue como freelance para uma parede de escalada. Gerencia horários, vagas e reservas de usuários.
 
 - Autenticação via OTP (Firebase Auth)
 - Controle de capacidade por faixa de horário
