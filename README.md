@@ -2,7 +2,7 @@
 
 # Olá, eu sou Allan 👋<br>Sou estudante de Ciência da Computação
 
-**Desenvolvedor de Software · Backend & Frontend · Soluções Reais**
+**Desenvolvedor de Software · Backend & Frontend · Buscando Soluções Reais**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-pedroso-cunico/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cunico.allan@gmail.com)
