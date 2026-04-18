@@ -1,6 +1,6 @@
 <div align="center">
 
-## Olá, eu sou Allan 👋<br>Sou estudante de Ciência da Computação
+# Olá, eu sou Allan 👋<br>Sou estudante de Ciência da Computação
 
 **Desenvolvedor de Software · Backend & Frontend · Soluções Reais**
 
