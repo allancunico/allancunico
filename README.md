@@ -38,6 +38,7 @@
 - Cálculo de custos em tempo real
 - Dashboard com gráficos e indicadores de desempenho
 - Exportação de orçamentos para Excel via ClosedXML
+- Deploy em Windows Server
 
 **Stack:** ASP.NET Core · React · PostgreSQL · Entity Framework Core · Recharts · ClosedXML
 
