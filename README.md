@@ -59,6 +59,13 @@
 
 ---
 
+### 🎓 Projetos Acadêmicos
+> Repositório com alguns trabalhos desenvolvidos durante a graduação em Ciência da Computação na UCS.
+
+[![Repositório](https://img.shields.io/badge/Ver%20Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/allancunico/projetos-academicos)
+
+---
+
 <!-- ## 📊 GitHub Stats
 
 <div align="center">
