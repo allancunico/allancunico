@@ -3,7 +3,7 @@
 # Hi, I'm Allan 👋
 Computer Science Student & Software Developer
 
-**Backend & Full Stack Development ·  · Backend & Frontend**
+**Backend & Full Stack Development · Backend & Frontend**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-pedroso-cunico/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cunico.allan@gmail.com)
