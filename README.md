@@ -25,20 +25,23 @@ Computer Science Student & Software Developer
 
 **Stack:** ASP.NET Core · React · PostgreSQL · Entity Framework Core · Recharts · ClosedXML
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/allancunico/sistema-orcamentos-eletricos)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/allancunico/budget-management-system)
 
 ---
 
-### 🧗 Scheduling Mobile App
-> Freelance mobile application developed for a climbing gym to manage bookings and schedules.
+### ⏱️ Production Hours Control
+> Enterprise-grade production management platform designed for industrial electrical panel assembly operations, providing real-time workforce tracking, operational analytics, project planning, and financial performance monitoring.
 
-- OTP authentication with Firebase Auth
-- Time slot capacity management
-- Real-time booking and cancellation system
+- Centralized production hour tracking with a custom operational calculation engine
+- Real-time dashboards for productivity, capacity utilization, costs, and team performance
+- Project lifecycle management with stage-level planning and task delegation
+- Automated monthly operational closing with historical snapshots and audit trail
+- Progressive Web App with offline support, push notifications, role-based access control, and secure RLS policies
 
-**Stack:** React Native · Expo · Firebase Firestore · EAS Build
+**Stack:** TanStack Start · React 19 · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Recharts · Cloudflare Workers · PWA · Web Push API
 
-`Coming soon on GitHub`
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/allancunico/production-hours-control)
+
 
 ---
 
