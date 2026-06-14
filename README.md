@@ -38,7 +38,7 @@ Computer Science Student & Software Developer
 - Automated monthly operational closing with historical snapshots and audit trail
 - Progressive Web App with offline support, push notifications, role-based access control, and secure RLS policies
 
-**Stack:** TanStack Start · React 19 · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Recharts · Cloudflare Workers · PWA · Web Push API
+**Stack:** TanStack Start · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Recharts · PWA · Web Push API
 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/allancunico/production-hours-control)
 
