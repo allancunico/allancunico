@@ -42,6 +42,20 @@ Computer Science Student & Software Developer
 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/allancunico/production-hours-control)
 
+---
+
+### 🎮 Steam Games Rating Classifier
+> Academic machine learning project exploring whether a Steam game's review category can be predicted from structural attributes alone, without using the reviews themselves - built as a complete, end-to-end classification pipeline.
+
+- Multiclass classification (Well Reviewed / Mixed / Poorly Reviewed) across 27k+ games
+- Comparative evaluation of Decision Tree, Naive Bayes, and kNN with stratified 10-fold cross-validation
+- Class imbalance handling with SMOTE integrated into a leakage-safe pipeline
+- Robustness testing via Gaussian noise injection, feature ablation, and learning curves
+- Critical discussion of model limitations, data bias, and ethical implications of misclassification
+
+**Stack:** Python · scikit-learn · imbalanced-learn (SMOTE) · pandas · matplotlib · seaborn
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/allancunico/steam-games-rating-classifier)
 
 ---
 
